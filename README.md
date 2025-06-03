@@ -10,6 +10,6 @@ Texh Stack:
 
 • Power BI desktop - Main data visualization platform used for creating report.
 
-• Power Query - Data transformation and cleaning.
+• Microsoft Excel - Data transformation and cleaning.
 
 • Data Modiling - Relationships established among tables (Accounts, Industry, Opportunities)
